@@ -1,7 +1,6 @@
 # ThermoHolic - Banco de Dados
 ## Bem-vindo(a) ao repositório de banco de dados no GitHub! :beers:
-![mysql-workbench-1](https://user-images.githubusercontent.com/126488672/233810557-dfc9526b-6419-43a5-bde0-d143ee1b508f.png)
-
+![image](https://user-images.githubusercontent.com/126488672/233810572-6ab76850-cc77-427b-b3eb-a76f96f45c1a.png)
 ______________________________________________________________________________________________________________________________________________________
 ## :beer: Descrição
 
