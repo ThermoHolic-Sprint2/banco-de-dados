@@ -1,8 +1,7 @@
 # ThermoHolic - Banco de Dados
 ## Bem-vindo(a) ao repositório de banco de dados no GitHub! :beers:
-![mysql-workbench-1](https://user-images.githubusercontent.com/126488672/233810416-c685c8dd-9988-4307-b26d-1eaec65cd64e.png)
-
-__________________________________________________________________________________________________________________________________________________________________
+         ![mysql-workbench-1](https://user-images.githubusercontent.com/126488672/233810551-acd6be1b-7419-4b57-8fbd-6daa27c033e4.png)
+_______________________________________________________________________________________________________________
 ## :beer: Descrição
 
 Aqui você encontrará o script em SQL para a criação das tabelas Empresa, Usuario, Sensor, Leitura e Tanque, que foram desenvolvidas utilizando a ferramenta Workbench MySQL.
