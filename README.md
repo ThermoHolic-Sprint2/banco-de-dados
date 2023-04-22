@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/126488672/233810572-6ab76850-cc77-427b-b3eb-a76f96f45c1a.png)
 ______________________________________________________________________________________________________________________________________________________
 ## :beer: Descrição
-Aqui você encontrará o script em SQL para a criação das tabelas Empresa, Usu
+Aqui você encontrará o script em SQL para a criação das tabelas Empresa, Usuario, Sensor, Leitura e Tanque, que foram desenvolvidas utilizando a ferramenta Workbench MySQL. O banco de dados é responsável pelo armazenamento seguro e confiável das informações.
 
 ## Funcionalidades do banco de dados
 • Criação de tabelas para armazenamento de empresas cervejeiras, usuários e tanques de fermentação.
