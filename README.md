@@ -1,5 +1,5 @@
-# ThermoHolic - Banco de Dados
-## Bem-vindo(a) ao repositório de banco de dados no GitHub! :beers:
+# ThermoHolic - Banco de Dados :beers:
+## Bem-vindo(a) ao repositório de banco de dados no GitHub! 
 ![image](https://user-images.githubusercontent.com/126488672/233810572-6ab76850-cc77-427b-b3eb-a76f96f45c1a.png)
 ______________________________________________________________________________________________________________________________________________________
 ## :beer: Descrição
@@ -8,8 +8,11 @@ Aqui você encontrará o script em SQL para a criação das tabelas Empresa, Usu
 
 ## Funcionalidades do banco de dados
 • Criação de tabelas para armazenamento de empresas cervejeiras, usuários e tanques de fermentação.
+
 • Definição de relacionamentos entre as tabelas, permitindo associar usuários a empresas e empresas a tanques de fermentação.
+
 • Configuração de índices e chaves primárias para otimizar o desempenho das consultas.
+
 • Definição de campos e tipos de dados adequados para garantir a integridade dos dados e evitar inconsistências.
 
 ## Como utilizar
